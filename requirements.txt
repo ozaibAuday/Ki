@@ -1,1 +1,4 @@
 telethon==1.36.0
+base64
+telebot
+requests
