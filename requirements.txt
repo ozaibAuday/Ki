@@ -2,3 +2,4 @@ telethon==1.36.0
 base64
 telebot
 requests
+python-telegram-bot==20.0a0
